@@ -22,4 +22,6 @@ void led5();
 void led_oneshot();
 void led_but();
 
+void run_matrix();
+
 #endif /* INC_FUNCTIONS_H_ */

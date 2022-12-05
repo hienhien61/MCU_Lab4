@@ -6,3 +6,5 @@ functions.c:29:6:led4	8	static
 functions.c:33:6:led5	8	static
 functions.c:37:6:led_oneshot	8	static
 functions.c:40:6:led_but	8	static
+functions.c:51:6:updateLEDMatrix	16	static
+functions.c:120:6:run_matrix	8	static
