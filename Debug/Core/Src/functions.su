@@ -1,0 +1,8 @@
+functions.c:9:6:clearLed	8	static
+functions.c:17:6:led1	8	static
+functions.c:21:6:led2	8	static
+functions.c:25:6:led3	8	static
+functions.c:29:6:led4	8	static
+functions.c:33:6:led5	8	static
+functions.c:37:6:led_oneshot	8	static
+functions.c:40:6:led_but	8	static
